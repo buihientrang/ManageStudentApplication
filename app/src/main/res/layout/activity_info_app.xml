@@ -75,7 +75,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_toRightOf="@id/imageView2"
-                android:text="- Đăng Nhập"
+                android:text="-Xác thực người dùng"
                 android:textAlignment="center"
                 android:textSize="22dp"
                 android:textStyle="bold"
